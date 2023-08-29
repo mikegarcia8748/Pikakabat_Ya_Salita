@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PikakabatYaSalitaDictionary</string>
+    <string name="title_activity_home">Activity_Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="lbl_version_place_holder">PYSD Build 1.1.0001</string>
+    <string name="lblCapstoneProject">A Capstone Project Proposal \n
+    Presented to the Faculty of the \n
+    Information and Communications Technology Program \n
+    STI College Dagupan </string>
+    <string name="lblAuthor">Authors</string>
+    <string name="lblAuthors">Homer B. Cortez \n
+    Rothesa Z. Domagas \n
+    Rodrigo M. Enriquez \n
+    Sophia Vera R. Yanos</string>
+
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis eros non magna luctus sollicitudin a sit amet diam. Curabitur pharetra ante nec arcu sodales consectetur. Duis metus tellus, faucibus eget posuere ut, consectetur ac metus. Integer porta risus sem, eu condimentum erat finibus sed. Etiam at justo lacus. Vestibulum ullamcorper sagittis scelerisque. Mauris accumsan venenatis rhoncus. Donec arcu velit, facilisis nec tincidunt in, sagittis in velit. Aliquam odio purus, pretium et lobortis ac, dignissim ut urna. Morbi consectetur justo vitae tincidunt consectetur.
+
+Vivamus eleifend gravida erat in luctus. Phasellus fermentum viverra hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur leo nulla, porttitor vel odio a, luctus lobortis libero. Quisque et pulvinar ante. Etiam volutpat ipsum neque, condimentum placerat quam sagittis sed. Aenean sit amet quam elementum, pellentesque lorem et, imperdiet nunc. Quisque ante dolor, molestie a pretium sed, convallis ut nisl. Praesent vitae arcu ante. Morbi vulputate laoreet ipsum sollicitudin mattis.
+
+Morbi odio enim, placerat id elit at, convallis posuere ligula. Sed vitae fringilla urna. Nullam cursus scelerisque venenatis. Etiam cursus laoreet velit vel rutrum. Nam tristique viverra enim sed egestas. Suspendisse euismod erat eu pulvinar faucibus. Donec pretium odio sed nulla auctor, sed malesuada mi ornare. In hac habitasse platea dictumst. Morbi venenatis non purus aliquam aliquet. Proin feugiat eros sit amet ex pharetra, ac luctus ante ultrices. Curabitur quis suscipit sem. Duis gravida pellentesque eros vitae ullamcorper. Aenean eu arcu sed risus tincidunt maximus vel vel risus. Donec eget fringilla libero, in imperdiet sapien. Maecenas a metus sed magna scelerisque vehicula. Praesent pharetra neque orci, vel laoreet orci commodo sed.
+    </string>
+
+    <string name="lorem_ipsum_qoute">“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”</string>
+
+    <string name="lblAbout">Pikakabat Ya Salita is a dictionary that aims to help its users
+gain extensiveand basic knowledge of the Pangasinan dialect.
+It also aims to share Pangasinan\'s history through trivia. Pikakabat Ya Salita wants to emphasize how lovely the town of Pangasinan is.</string>
+</resources>
